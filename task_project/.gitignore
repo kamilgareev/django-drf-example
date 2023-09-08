@@ -1,0 +1,4 @@
+__pycache__
+db.backends.postgresql_psycopg2
+.env
+.task_env
